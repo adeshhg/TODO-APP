@@ -5,6 +5,6 @@ function addTask() {
         alert("Please enter a task")
     }
     else {
-adkfjhadskjf
+
     }
 }
