@@ -5,6 +5,16 @@ function addTask() {
         alert("Please enter a task")
     }
     else {
-
-    }
+           const taskDiv = document.createElement("div")
+           const taskText = document.createElement("hi")
+           taskText = textInput
+           const doneButton = document.createElement("button")
+           doneButton.textContent  = "Done"
+           doneButton.onclick = function(){
+            
+           }
+           const  delButton = document.createElement("button")
+            delButton.textContent = "Delete"
+        
+        }
 }
